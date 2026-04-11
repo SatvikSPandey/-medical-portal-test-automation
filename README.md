@@ -51,6 +51,7 @@ After running, an HTML report is generated at:
 
 bin/Debug/net8.0/Reports/index.html
 
+**Live Report:** https://satvikspandey.github.io/-medical-portal-test-automation/
 
 Open this file in any browser to view detailed test results with timestamps and pass/fail status.
 
