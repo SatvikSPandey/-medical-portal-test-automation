@@ -1,0 +1,16 @@
+# Build outputs
+bin/
+obj/
+
+# Reports and screenshots (generated at runtime)
+**/Reports/
+**/Screenshots/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# NuGet
+packages/
+*.nupkg
