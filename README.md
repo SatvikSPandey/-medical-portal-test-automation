@@ -1,4 +1,9 @@
-﻿# Medical Portal Test Automation Framework
+﻿
+**Author:** Satvik Pandey | [LinkedIn](https://www.linkedin.com/in/satvikpandey-433555365) | [GitHub](https://github.com/SatvikSPandey)
+
+---
+
+# Medical Portal Test Automation Framework
 
 A professional BDD test automation framework built with C#, NUnit, and SpecFlow, demonstrating enterprise-grade testing practices aligned with healthcare software QA standards.
 
